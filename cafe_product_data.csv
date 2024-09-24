@@ -1,0 +1,25 @@
+product_id,product_name,price,category
+1,Latte,4.5,Drinks
+2,Espresso,3.0,Drinks
+3,Cappuccino,4.0,Drinks
+4,Mocha,4.75,Drinks
+5,Americano,3.25,Drinks
+6,Flat White,4.25,Drinks
+7,Macchiato,3.5,Drinks
+8,Iced Coffee,3.75,Drinks
+9,Tea,2.5,Drinks
+10,Hot Chocolate,3.75,Drinks
+11,Bagel,2.5,Bakery
+12,Croissant,3.5,Bakery
+13,Muffin,2.75,Bakery
+14,Scone,3.0,Bakery
+15,Pastrami Sandwich,5.0,Sandwiches & Toasts
+16,Vegan Sandwich,4.0,Sandwiches & Toasts
+17,Avocado&Egg Toast,6.2,Sandwiches & Toasts
+18,Salad,6.5,Lunch
+19,Soup,4.5,Lunch
+20,Fruit Cup,3.75,Lunch
+21,Smoothie,5.5,Drinks
+22,Cookie,2.0,Bakery
+23,Brownie,2.5,Bakery
+24,Cake Slice,4.0,Bakery

@@ -1,0 +1,234 @@
+branch_id,neighborhood,zipcode,city,area
+B001,Rittenhouse Square,19103,Philadelphia,East
+B002,Wynwood,33127,Miami,South
+B003,The Heights,77008,Houston,South
+B004,LoDo,80202,Denver,West
+B005,South Congress,78704,Austin,South
+B006,Shadyside,15232,Pittsburgh,North
+B007,Downtown,44113,Cleveland,North
+B008,Silver Lake,90039,Los Angeles,West
+B009,Brooklyn Heights,11201,New York,East
+B010,Fells Point,21231,Baltimore,East
+B011,Uptown (Dallas),75204,Dallas,South
+B012,Brooklyn Heights,11201,New York,East
+B013,Wynwood,33127,Miami,South
+B014,Rittenhouse Square,19103,Philadelphia,East
+B015,Capitol Hill,20003,"Washington, D.C.",East
+B016,Uptown (Dallas),75219,Dallas,South
+B017,French Quarter,70116,New Orleans,South
+B018,Shadyside,15232,Pittsburgh,North
+B019,Shadyside,15232,Pittsburgh,North
+B020,Silver Lake,90039,Los Angeles,West
+B021,Shadyside,15232,Pittsburgh,North
+B022,Downtown,44113,Cleveland,North
+B023,Rittenhouse Square,19103,Philadelphia,East
+B024,Shadyside,15232,Pittsburgh,North
+B025,The Heights,77008,Houston,South
+B026,Shadyside,15232,Pittsburgh,North
+B027,Uptown (Dallas),75204,Dallas,South
+B028,Pearl District,97209,Portland,West
+B029,Arcadia,85018,Phoenix,West
+B030,Downtown,44113,Cleveland,North
+B031,Pearl District,97209,Portland,West
+B032,Shadyside,15232,Pittsburgh,North
+B033,LoDo,80202,Denver,West
+B034,LoDo,80202,Denver,West
+B035,French Quarter,70116,New Orleans,South
+B036,Shadyside,15232,Pittsburgh,North
+B037,Downtown,44113,Cleveland,North
+B038,SOMA,94103,San Francisco,West
+B039,Downtown,44113,Cleveland,North
+B040,Georgetown,20007,"Washington, D.C.",East
+B041,Shadyside,15232,Pittsburgh,North
+B042,Fells Point,21231,Baltimore,East
+B043,Uptown (Dallas),75204,Dallas,South
+B044,North Park,92104,San Diego,West
+B045,Rittenhouse Square,19103,Philadelphia,East
+B046,Pearl District,97209,Portland,West
+B047,Fells Point,21231,Baltimore,East
+B048,Upper West Side,10024,New York,East
+B049,Upper West Side,10025,New York,East
+B050,Rittenhouse Square,19103,Philadelphia,East
+B051,North End,02113,Boston,East
+B052,Old Town,60610,Chicago,North
+B053,The Heights,77008,Houston,South
+B054,Pearl District,97209,Portland,West
+B055,French Quarter,70116,New Orleans,South
+B056,Ballard,98107,Seattle,West
+B057,French Quarter,70116,New Orleans,South
+B058,North End,02113,Boston,East
+B059,South Congress,78704,Austin,South
+B060,Downtown,44113,Cleveland,North
+B061,Arcadia,85018,Phoenix,West
+B062,South Congress,78704,Austin,South
+B063,Silver Lake,90039,Los Angeles,West
+B064,SOMA,94103,San Francisco,West
+B065,LoDo,80202,Denver,West
+B066,Ballard,98107,Seattle,West
+B067,Arcadia,85018,Phoenix,West
+B068,Old Town,60610,Chicago,North
+B069,Ballard,98107,Seattle,West
+B070,SOMA,94103,San Francisco,West
+B071,Shadyside,15232,Pittsburgh,North
+B072,West Loop,60607,Chicago,North
+B073,Silver Lake,90039,Los Angeles,West
+B074,Silver Lake,90039,Los Angeles,West
+B075,Uptown (Dallas),75204,Dallas,South
+B076,Uptown (Dallas),75219,Dallas,South
+B077,Shadyside,15232,Pittsburgh,North
+B078,Pearl District,97209,Portland,West
+B079,Upper West Side,10025,New York,East
+B080,Shadyside,15232,Pittsburgh,North
+B081,Uptown (Dallas),75219,Dallas,South
+B082,SOMA,94103,San Francisco,West
+B083,Pearl District,97209,Portland,West
+B084,LoDo,80202,Denver,West
+B085,South Congress,78704,Austin,South
+B086,LoDo,80202,Denver,West
+B087,The Heights,77008,Houston,South
+B088,Arcadia,85018,Phoenix,West
+B089,The Heights,77008,Houston,South
+B090,West Loop,60607,Chicago,North
+B091,South Congress,78704,Austin,South
+B092,Little Italy,92101,San Diego,West
+B093,Uptown (Dallas),75219,Dallas,South
+B094,North Park,92104,San Diego,West
+B095,South Boston,02127,Boston,East
+B096,Uptown (Dallas),75219,Dallas,South
+B097,Old Town,60610,Chicago,North
+B098,North End,02113,Boston,East
+B099,Rittenhouse Square,19103,Philadelphia,East
+B100,Buckhead,30309,Atlanta,South
+B101,Downtown,44113,Cleveland,North
+B102,Buckhead,30305,Atlanta,South
+B103,Downtown,44113,Cleveland,North
+B104,Pearl District,97209,Portland,West
+B105,Downtown,44113,Cleveland,North
+B106,Buckhead,30309,Atlanta,South
+B107,Fells Point,21231,Baltimore,East
+B108,Rittenhouse Square,19103,Philadelphia,East
+B109,Wynwood,33127,Miami,South
+B110,Uptown (Dallas),75204,Dallas,South
+B111,Uptown (Dallas),75219,Dallas,South
+B112,Upper West Side,10025,New York,East
+B113,Arcadia,85018,Phoenix,West
+B114,Wynwood,33127,Miami,South
+B115,Buckhead,30305,Atlanta,South
+B116,Downtown,44113,Cleveland,North
+B117,Uptown (Dallas),75204,Dallas,South
+B118,North End,02113,Boston,East
+B119,Little Italy,92101,San Diego,West
+B120,Rittenhouse Square,19103,Philadelphia,East
+B121,The Heights,77008,Houston,South
+B122,Downtown,44113,Cleveland,North
+B123,Buckhead,30309,Atlanta,South
+B124,Silver Lake,90039,Los Angeles,West
+B125,Little Italy,92101,San Diego,West
+B126,The Heights,77008,Houston,South
+B127,North Park,92104,San Diego,West
+B128,Arcadia,85018,Phoenix,West
+B129,The Heights,77008,Houston,South
+B130,Arcadia,85018,Phoenix,West
+B131,Pearl District,97209,Portland,West
+B132,Uptown (Minneapolis),55408,Minneapolis,North
+B133,SOMA,94103,San Francisco,West
+B134,Ballard,98107,Seattle,West
+B135,Rittenhouse Square,19103,Philadelphia,East
+B136,Rittenhouse Square,19103,Philadelphia,East
+B137,SOMA,94103,San Francisco,West
+B138,Uptown (Minneapolis),55408,Minneapolis,North
+B139,South Boston,02127,Boston,East
+B140,Downtown,44113,Cleveland,North
+B141,Buckhead,30305,Atlanta,South
+B142,Silver Lake,90039,Los Angeles,West
+B143,Rittenhouse Square,19103,Philadelphia,East
+B144,Buckhead,30309,Atlanta,South
+B145,Uptown (Dallas),75204,Dallas,South
+B146,Uptown (Dallas),75204,Dallas,South
+B147,South Boston,02127,Boston,East
+B148,LoDo,80202,Denver,West
+B149,Wynwood,33127,Miami,South
+B150,The Heights,77008,Houston,South
+B151,North Park,92104,San Diego,West
+B152,Downtown,44113,Cleveland,North
+B153,Old Town,60610,Chicago,North
+B154,LoDo,80202,Denver,West
+B155,Little Italy,92101,San Diego,West
+B156,SOMA,94103,San Francisco,West
+B157,Little Italy,92101,San Diego,West
+B158,Fells Point,21231,Baltimore,East
+B159,Pearl District,97209,Portland,West
+B160,Rittenhouse Square,19103,Philadelphia,East
+B161,Shadyside,15232,Pittsburgh,North
+B162,SOMA,94103,San Francisco,West
+B163,South Congress,78704,Austin,South
+B164,Pearl District,97209,Portland,West
+B165,Buckhead,30309,Atlanta,South
+B166,Fells Point,21231,Baltimore,East
+B167,Upper West Side,10025,New York,East
+B168,Little Italy,92101,San Diego,West
+B169,Silver Lake,90039,Los Angeles,West
+B170,Rittenhouse Square,19103,Philadelphia,East
+B171,Upper West Side,10024,New York,East
+B172,The Heights,77008,Houston,South
+B173,Rittenhouse Square,19103,Philadelphia,East
+B174,South Boston,02127,Boston,East
+B175,The Heights,77008,Houston,South
+B176,LoDo,80202,Denver,West
+B177,Uptown (Minneapolis),55408,Minneapolis,North
+B178,Wynwood,33127,Miami,South
+B179,Buckhead,30309,Atlanta,South
+B180,North End,02113,Boston,East
+B181,South Boston,02127,Boston,East
+B182,Shadyside,15232,Pittsburgh,North
+B183,Pearl District,97209,Portland,West
+B184,Uptown (Minneapolis),55408,Minneapolis,North
+B185,Rittenhouse Square,19103,Philadelphia,East
+B186,Little Italy,92101,San Diego,West
+B187,SOMA,94103,San Francisco,West
+B188,Buckhead,30305,Atlanta,South
+B189,Uptown (Dallas),75204,Dallas,South
+B190,Ballard,98107,Seattle,West
+B191,French Quarter,70116,New Orleans,South
+B192,North End,02113,Boston,East
+B193,Capitol Hill,20003,"Washington, D.C.",East
+B194,Uptown (Dallas),75219,Dallas,South
+B195,Capitol Hill,20003,"Washington, D.C.",East
+B196,Silver Lake,90039,Los Angeles,West
+B197,Uptown (Dallas),75219,Dallas,South
+B198,The Heights,77008,Houston,South
+B199,Pearl District,97209,Portland,West
+B200,Wynwood,33127,Miami,South
+B201,Wynwood,33127,Miami,South
+B202,Uptown (Dallas),75204,Dallas,South
+B203,North End,02113,Boston,East
+B204,French Quarter,70116,New Orleans,South
+B205,Fells Point,21231,Baltimore,East
+B206,Pearl District,97209,Portland,West
+B207,Downtown,44113,Cleveland,North
+B208,Georgetown,20007,"Washington, D.C.",East
+B209,Wynwood,33127,Miami,South
+B210,Downtown,44113,Cleveland,North
+B211,Silver Lake,90039,Los Angeles,West
+B212,SOMA,94103,San Francisco,West
+B213,French Quarter,70116,New Orleans,South
+B214,Downtown,44113,Cleveland,North
+B215,Buckhead,30309,Atlanta,South
+B216,North Park,92104,San Diego,West
+B217,Silver Lake,90039,Los Angeles,West
+B218,Wynwood,33127,Miami,South
+B219,Downtown,44113,Cleveland,North
+B220,The Heights,77008,Houston,South
+B221,Silver Lake,90039,Los Angeles,West
+B222,Arcadia,85018,Phoenix,West
+B223,French Quarter,70116,New Orleans,South
+B224,Rittenhouse Square,19103,Philadelphia,East
+B225,LoDo,80202,Denver,West
+B226,South Congress,78704,Austin,South
+B227,Arcadia,85018,Phoenix,West
+B228,SOMA,94103,San Francisco,West
+B229,French Quarter,70116,New Orleans,South
+B230,North Park,92104,San Diego,West
+B231,Pearl District,97209,Portland,West
+B232,North End,02113,Boston,East
+B233,The Heights,77008,Houston,South
